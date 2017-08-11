@@ -1,0 +1,577 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Friday News Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Mar 29 2016 16:53:46 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Tue Mar 29 2016 16:53:50 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Friday News Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A specific plugin use in Friday News Lite Theme, included some custom "
+"widgets, shortcodes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kopa Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kopatheme.com"
+msgstr ""
+
+#: ../friday-news-toolkit.php:80
+msgid "Grid"
+msgstr ""
+
+#: ../friday-news-toolkit.php:81
+msgid "Shortcodes"
+msgstr ""
+
+#: ../friday-news-toolkit.php:82
+msgid "Container"
+msgstr ""
+
+#: ../friday-news-toolkit.php:83
+msgid "Tabs"
+msgstr ""
+
+#: ../friday-news-toolkit.php:84
+msgid "Tabs (Background)"
+msgstr ""
+
+#: ../friday-news-toolkit.php:85
+msgid "Accordion"
+msgstr ""
+
+#: ../friday-news-toolkit.php:86
+msgid "Toggle"
+msgstr ""
+
+#: ../friday-news-toolkit.php:87
+msgid "Dropcap"
+msgstr ""
+
+#: ../friday-news-toolkit.php:88
+msgid "Transparent"
+msgstr ""
+
+#: ../friday-news-toolkit.php:89
+msgid "Border"
+msgstr ""
+
+#: ../friday-news-toolkit.php:90
+msgid "Border Left Top"
+msgstr ""
+
+#: ../friday-news-toolkit.php:91
+msgid "Background"
+msgstr ""
+
+#: ../friday-news-toolkit.php:92
+msgid "Alert box"
+msgstr ""
+
+#: ../friday-news-toolkit.php:93
+msgid "Info"
+msgstr ""
+
+#: ../friday-news-toolkit.php:94
+msgid "Success"
+msgstr ""
+
+#: ../friday-news-toolkit.php:95
+msgid "Warning"
+msgstr ""
+
+#: ../friday-news-toolkit.php:96
+msgid "Danger"
+msgstr ""
+
+#: ../friday-news-toolkit.php:97
+msgid "Button"
+msgstr ""
+
+#: ../friday-news-toolkit.php:98
+msgid "Large"
+msgstr ""
+
+#: ../friday-news-toolkit.php:99
+msgid "Medium"
+msgstr ""
+
+#: ../friday-news-toolkit.php:100
+msgid "Small"
+msgstr ""
+
+#: ../friday-news-toolkit.php:101 ../friday-news-toolkit.php:105 ../friday-news-
+#: toolkit.php:109
+msgid "Yellow"
+msgstr ""
+
+#: ../friday-news-toolkit.php:102 ../friday-news-toolkit.php:106 ../friday-news-
+#: toolkit.php:110
+msgid "Black"
+msgstr ""
+
+#: ../friday-news-toolkit.php:103 ../friday-news-toolkit.php:107 ../friday-news-
+#: toolkit.php:111
+msgid "Gray"
+msgstr ""
+
+#: ../friday-news-toolkit.php:104 ../friday-news-toolkit.php:108 ../friday-news-
+#: toolkit.php:112
+msgid "Pink"
+msgstr ""
+
+#: ../friday-news-toolkit.php:113
+msgid "Blockquote"
+msgstr ""
+
+#: ../inc/hook.php:33
+msgid "Featured content"
+msgstr ""
+
+#: ../inc/hook.php:40
+msgid "Show / Hide featured in single."
+msgstr ""
+
+#: ../inc/hook.php:45
+msgid "Show"
+msgstr ""
+
+#: ../inc/hook.php:46
+msgid "Hide"
+msgstr ""
+
+#: ../inc/hook.php:50
+msgid "Gallery:"
+msgstr ""
+
+#: ../inc/hook.php:53
+msgid "This option only apply for post-format \"Gallery\"."
+msgstr ""
+
+#: ../inc/hook.php:56
+msgid "Quote:"
+msgstr ""
+
+#: ../inc/hook.php:59
+msgid "This option only apply for post-format \"Quote\"."
+msgstr ""
+
+#: ../inc/hook.php:62
+msgid "Custom:"
+msgstr ""
+
+#: ../inc/hook.php:65
+msgid "Enter custom content as shortcode or custom HTML, ..."
+msgstr ""
+
+#: ../inc/hook.php:92
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/hook.php:93
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/hook.php:94
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/hook.php:95
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/util.php:6 ../inc/util.php:12
+msgid "-- none --"
+msgstr ""
+
+#: ../inc/util.php:21 ../inc/widgets/post/posts-list-tabs.php:24 ..
+#: /inc/widgets/post/tags.php:24 ../inc/widgets/social/follow-us.php:24 ..
+#: /inc/widgets/social/tweets-list.php:23
+msgid "Title:"
+msgstr ""
+
+#: ../inc/util.php:26
+msgid "Categories:"
+msgstr ""
+
+#: ../inc/util.php:32
+msgid "Relation:"
+msgstr ""
+
+#: ../inc/util.php:35
+msgid "AND"
+msgstr ""
+
+#: ../inc/util.php:36
+msgid "OR"
+msgstr ""
+
+#: ../inc/util.php:42
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/util.php:49
+msgid "Order:"
+msgstr ""
+
+#: ../inc/util.php:51
+msgid "ASC"
+msgstr ""
+
+#: ../inc/util.php:52
+msgid "DESC"
+msgstr ""
+
+#: ../inc/util.php:58
+msgid "Orderby:"
+msgstr ""
+
+#: ../inc/util.php:60
+msgid "Date"
+msgstr ""
+
+#: ../inc/util.php:61 ../inc/widgets/post/posts-list-tabs.php:62
+msgid "Random"
+msgstr ""
+
+#: ../inc/util.php:62
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/util.php:68 ../inc/widgets/post/posts-list-tabs.php:29
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/fields/metabox/gallery.php:17
+msgid "Config"
+msgstr ""
+
+#: ../inc/fields/metabox/quote.php:11
+msgid "Message:"
+msgstr ""
+
+#: ../inc/fields/metabox/quote.php:21
+msgid "Author:"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:16
+msgid "Display your image ads size 1200x107."
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:18
+msgid "Friday - Ads 1200x107"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:24 ../inc/widgets/ads/ads-336.php:24
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:29 ../inc/widgets/ads/ads-336.php:29
+msgid "Target:"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:31 ../inc/widgets/ads/ads-336.php:31
+msgid "Open in current tab"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:32 ../inc/widgets/ads/ads-336.php:32
+msgid "Open in new tab"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-1200.php:39 ../inc/widgets/ads/ads-336.php:39 ..
+#: /inc/widgets/contact/contact-info.php:44
+msgid "Upload your image:"
+msgstr ""
+
+#: ../inc/widgets/ads/ads-336.php:16
+msgid "Display your image ads size 336x280."
+msgstr ""
+
+#: ../inc/widgets/ads/ads-336.php:18
+msgid "Friday - Ads 336x280"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:16
+msgid "Display contact form."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:18
+msgid "Friday - Contact Form"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:23 ../inc/widgets/contact/contact-info.
+#: php:23 ../inc/widgets/post/featured-post.php:23
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:29
+msgid "Description"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:60
+msgid "Your Name"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:61 ../inc/widgets/post/tags.php:41
+msgid "Name"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:62
+msgid "Your Email"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:63 ../inc/widgets/contact/contact-info.
+#: php:38 ../inc/widgets/contact/contact-info.php:93 ../inc/widgets/social/follow-
+#: us.php:113
+msgid "Email"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:64 ../inc/widgets/contact/contact-form.
+#: php:65
+msgid "Subject"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:68
+msgid "Your Message"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:69
+msgid "Message"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:70
+msgid "send message"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info.php:16
+msgid "Display contact info, email, phone, address. Image background"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info.php:18
+msgid "Friday - Contact Info"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info.php:28 ../inc/widgets/contact/contact-info.
+#: php:75
+msgid "Address"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info.php:33
+msgid "Phone"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info.php:86
+msgid "Telephone"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:15
+msgid ""
+"Display a single post with big thumbnail and excerpt. Widget not support "
+"title."
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:17
+msgid "Friday - Featured Post"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:29
+msgid "Excerpt length:"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:30
+msgid "Enter 0 to hide the excerpt."
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:47
+msgid "Select a post"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:109
+msgid "By"
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-8572.php:15
+msgid "Display posts list thumbnail size 85x72 and title."
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-8572.php:17
+msgid "Friday - Posts List (85x72)"
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-lite-8572.php:15
+msgid "Display posts list thumbnail size 85x72."
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-lite-8572.php:17
+msgid "Friday - Posts List Lite (85x72) "
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-tabs.php:16
+msgid "Displays a list posts in tab recent, comment, random."
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-tabs.php:18
+msgid "Friday - Tabs"
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-tabs.php:60
+msgid "Recent posts"
+msgstr ""
+
+#: ../inc/widgets/post/posts-list-tabs.php:61
+msgid "Comment"
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:16
+msgid "Displays a list of tags."
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:18
+msgid "Friday - Tags"
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:29
+msgid "Number of tags:"
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:34
+msgid "Exclude no tags:"
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:39
+msgid "Order by:"
+msgstr ""
+
+#: ../inc/widgets/post/tags.php:42
+msgid "Count"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:16
+msgid "Displays a list of socials."
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:18
+msgid "Friday - Follow Us"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:29
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:34
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:39
+msgid "Instagram URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:44
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:49
+msgid "Gooogle+ URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:54
+msgid "Flickr URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:59
+msgid "Youtube URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:64
+msgid "Email URL:"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:85
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:89
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:93
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:97
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:101
+msgid "Google+"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:105
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/social/follow-us.php:109
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:15
+msgid "Display your latest tweets by un-order list."
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:17
+msgid "Friday - Tweets List"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:28
+msgid "Username:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:33
+msgid "Number of tweets:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:38
+msgid "Consumer key:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:43
+msgid "Consumer secret:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:48
+msgid "Oauth access token:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:53
+msgid "Oauth access token secret:"
+msgstr ""
+
+#: ../inc/widgets/social/tweets-list.php:112
+msgid "Sorry, your server don't support curl extension to run this widget"
+msgstr ""
